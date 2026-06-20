@@ -31,6 +31,7 @@
   },
   "homepage": "https://github.com/holepunchto/bare-addon#readme",
   "devDependencies": {
+    "bare-tcp": "^2.5.1",
     "brittle": "^3.4.0",
     "cmake-bare": "^1.1.2",
     "lunte": "^1.3.0",
